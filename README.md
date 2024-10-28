@@ -1,6 +1,6 @@
 ### Hi there i'm Arrenius Bessa 👋
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I'm currently working with HTML, CSS, Javascript, ReactJS
 - 📫 How to reach me: arrenius94@gmail.com
 
 ##
